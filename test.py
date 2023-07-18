@@ -20,3 +20,4 @@ for subdir, dirs, files in os.walk(input_dir):
         word.Quit()
         
 print("newly added")        
+print("added again")
