@@ -18,3 +18,5 @@ for subdir, dirs, files in os.walk(input_dir):
         doc.SaveAs(out_file, FileFormat=wdFormatPDF)
         doc.Close()
         word.Quit()
+        
+print("newly added")        
