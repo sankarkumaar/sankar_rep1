@@ -21,3 +21,5 @@ for subdir, dirs, files in os.walk(input_dir):
         
 print("newly added")        
 print("added again")
+
+changed
