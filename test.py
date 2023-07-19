@@ -21,5 +21,4 @@ for subdir, dirs, files in os.walk(output_dir):
         
 print("newly added")        
 print("added again")
-
-changed
+1345678
